@@ -2,7 +2,7 @@
 
 ![Text](./welcome.gif) 
 
-#### I do <span style="color:red">Software Engineering<span>, Cloud Engineering and System Architecture
+#### Founder of <span style="color:red">SAAI<span>Solutions
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,nodejs,mongodb,redis,ts,react,docker,kubernetes,aws,git)](https://skills.thijs.gg)
 
 ## <samp>This is what I do</samp>
