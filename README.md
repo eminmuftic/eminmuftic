@@ -2,7 +2,10 @@
 
 ![Text](./welcome.gif) 
 
-#### One of the guys who came with idea of <span style="color:red">SAAI<span>Solutions
+#### One of the guys who came with idea of <span style="color:blue">SAAI<span>Solutions
+#### Yoga and alternative medicine practicant
+#### Solutions Architect
+#### Software and DevOps Engineer
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,tailwind,js,nodejs,mongodb,redis,ts,react,docker,kubernetes,aws,git)](https://skills.thijs.gg)
 
 ## <samp>A little bit about me :)</samp>
